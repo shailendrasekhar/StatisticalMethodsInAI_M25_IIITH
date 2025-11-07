@@ -2,3 +2,12 @@ assignment3/Datasets/LFW_Dataset
 assignment3/runs
 assignment3/wandb
 assignment3/Q2_results
+
+assignment4/Q1/data
+assignment4/Q1/models
+assignment4/Q1/wandb
+assignment4/Q2/data
+assignment4/Q2/models
+assignment4/Q2/wandb
+assignment4/Q2/loss_curves
+assignment4/Q2/media
