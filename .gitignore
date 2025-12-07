@@ -2,6 +2,9 @@ assignment3/Datasets/LFW_Dataset
 assignment3/runs
 assignment3/wandb
 assignment3/Q2_results
+assignment3/XOR_Single_Run_Test
+assignment3/xor-grid_search
+
 
 assignment4/Q1/data
 assignment4/Q1/models
